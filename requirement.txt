@@ -6,3 +6,5 @@ color
 video
 payment mode
 Documentation
+money sent
+money recive
